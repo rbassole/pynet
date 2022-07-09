@@ -1,0 +1,14 @@
+vlan 100
+name Securite 
+!
+vlan 200
+name Bureautique
+!
+vlan 300
+name Banque
+!
+Vlan 400
+name Trading
+!
+Vlan 500
+name Informatique
